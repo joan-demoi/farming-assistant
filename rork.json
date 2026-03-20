@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "U-Farm",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "U-Farm",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
